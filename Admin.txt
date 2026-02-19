@@ -7,7 +7,4 @@ database
 close the connection
 
 =============
-Feature 3 update
-HaHa
-added from local 
-Bye
+
