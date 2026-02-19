@@ -9,5 +9,6 @@ close the connection
 =============
 Feature 3 update
 HaHa
-added from local 
-Bye
+added from remote 
+Hi
+
