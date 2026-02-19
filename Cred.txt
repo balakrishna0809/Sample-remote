@@ -1,2 +1,0 @@
-username=bala
-password=Bala@123
