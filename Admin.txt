@@ -3,3 +3,5 @@ Remove
 Add
 
 database
+
+close the connection
